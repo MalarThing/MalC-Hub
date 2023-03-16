@@ -482,7 +482,7 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 
 local entity = Spawner.createEntity({
     CustomName = "Dread",
-    Model = "rbxassetid://12798751166", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
+    Model = "rbxassetid://12805855406", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
     Speed = 0,
     MoveDelay = 2,
     HeightOffset = 0,
@@ -567,7 +567,7 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 
 local entity = Spawner.createEntity({
     CustomName = "Dread",
-    Model = "rbxassetid://12798751166", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
+    Model = "rbxassetid://12805855406", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
     Speed = 0,
     MoveDelay = 2,
     HeightOffset = 0,
